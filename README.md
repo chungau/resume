@@ -1,1 +1,3 @@
-# Chung Au's dynamic portfolio resume 
+# Dynamic Resume
+
+Chung Au's dynamic portfolio resume 
